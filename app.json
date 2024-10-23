@@ -1,22 +1,22 @@
 {
   "expo": {
-    "name": "Grupo MD",
-    "slug": "grupomd",
+    "name": "FMEC PINHALZINHO",
+    "slug": "fmecpinhalzinho",
     "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#002060"
+      "backgroundColor": "#B1B1B2"
     },
     "androidNavigationBar": {
       "barStyle": "light-content",
-      "backgroundColor": "#002060"
+      "backgroundColor": "#B1B1B2"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/19eb1224-206f-4ed9-8b51-357cfe7249c2"
+      "url": "https://u.expo.dev/865dc127-12d1-40be-a5ef-668f78c61481"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -25,25 +25,24 @@
       "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#002060"
+        "backgroundColor": "#B1B1B2"
       },
-      "package": "com.sporti.grupomd",
+      "package": "com.sporti.fmecpinhalzinho",
       "permissions": []
     },
     "ios": {
-      "buildNumber": "2.0",
-      "bundleIdentifier": "com.sporti.grupomd",
+      "buildNumber": "1.0",
+      "bundleIdentifier": "com.sporti.fmecpinhalzinho",
       "supportsTablet": true,
       "infoPlist": {
         "NSCameraUsageDescription": "This app uses the camera to collect the user's profile photo, which can be fictitious.",
         "NSMicrophoneUsageDescription": "This app uses the microphone if the user wants to record a video"
       }
     },
-    "main": "node_modules/expo/AppEntry.js",
     "description": "",
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "865dc127-12d1-40be-a5ef-668f78c61481"
       }
     },
     "runtimeVersion": {

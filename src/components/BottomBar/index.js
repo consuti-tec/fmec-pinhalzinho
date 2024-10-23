@@ -36,7 +36,7 @@ class BottomBar extends React.Component {
                 <HideBottomBar>
                     <View style={{ flexDirection: "row", alignItems: "center" }}>
                         {!this.state.showBar &&
-                            <Text style={[styles.text, { color: '#1A2450', marginRight: 10 }]}>Mais opções...</Text>
+                            <Text style={[styles.text, { color: '#1C5F2B', marginRight: 10 }]}>Mais opções...</Text>
                         }
                         <Icon
                             onPress={() => this.hideShow()}
